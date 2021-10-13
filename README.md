@@ -18,3 +18,4 @@ The following files are used to demonstrate how to use a Pluto radio to transmit
 
 ## Miscellaneous Files
 * **Notebook13.pdf** - Kevin's personal notes for LTE Release 8.
+* **screenshots** - This folder contains screenshots of my handwritten notes during class.
